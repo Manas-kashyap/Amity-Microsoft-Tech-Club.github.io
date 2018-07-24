@@ -1,9 +1,10 @@
 # OfficialWeb
 
-## Official Website of Mozilla Campus Club IIT
+## Official Website of Amity Microsoft Tech Club , Noida
 
 
-This repository contains all resources related to Mozilla Campus Club of Informatics Institute of Technology. Since we are a open source community, you can contribute this repository to make a great website for our club.
+This repository contains all resources related to Amity Microsoft Tech Club , Noida . 
+You can contribute this repository to make a great website for our club.
 
 Rules and Regulations
 * You are not allowed to store unrealated/harmful data in this repository.
@@ -12,5 +13,3 @@ Rules and Regulations
 
 Let's make it happen...
 Happy Coding....
-
-Note the Preview of the code is available at [https://mozilla-campus-club-iit.github.io/](https://mozilla-campus-club-iit.github.io/)
